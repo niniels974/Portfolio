@@ -11,7 +11,8 @@
 
  *Mettre en italique*
 
- Je tape du texte et je voudrais  revenir à la ligne (deux espaces)
+ Je tape du texte et je voudrais  
+ revenir à la ligne (deux espaces)
 
  Faire une liste à puce
 
@@ -41,5 +42,6 @@ Afficher un bout de code
 Mettre un lien dans le readme.md
 mon portfolio [mon portfolio](https://www.)
 
-Mettre une image, un logo
+Mettre une image, un logo  
+
 ![mon portfolio](https://www.liendelimage)
